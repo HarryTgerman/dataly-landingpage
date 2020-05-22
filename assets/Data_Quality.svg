@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Data_Quality</title>
+    <desc>Created with Sketch.</desc>
+    <g id="👩🏼‍💻-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Web_Homepage_MonitorData" transform="translate(-158.000000, -2206.000000)" fill="#0076FF">
+            <g id="Data_Quality" transform="translate(158.000000, 2206.000000)">
+                <path d="M0,13.3492585 L10.4047619,13.3492585 L10.4047619,2.98562213 L9.82827301,3.00126053 C10.0191122,2.99088015 10.2113206,2.98562213 10.4047619,2.98562213 C16.1511532,2.98562213 20.8095238,7.62558018 20.8095238,13.3492585 C20.8095238,19.0729368 16.1511532,23.7128949 10.4047619,23.7128949 C4.65837058,23.7128949 0,19.0729368 0,13.3492585 Z" id="Combined-Shape" opacity="0.462355841" transform="translate(10.404762, 13.349258) scale(-1, 1) translate(-10.404762, -13.349258) "></path>
+                <path d="M11.7593746,1.10654749 C11.9502138,1.09616711 12.1424222,1.09090909 12.3358635,1.09090909 C18.0822548,1.09090909 22.7406254,5.73086714 22.7406254,11.4545455 L12.3358635,11.4545455 L12.3358635,1.09090909 L11.7593746,1.10654749 Z" id="Combined-Shape" transform="translate(17.250000, 6.272727) scale(-1, 1) rotate(-90.000000) translate(-17.250000, -6.272727) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
